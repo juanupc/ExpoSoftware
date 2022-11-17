@@ -1,0 +1,15 @@
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.deps.json
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfo.cs
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.dll
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\refint\SistemaVenta.DAL.dll
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\ref\SistemaVenta.DAL.dll
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.CopyComplete
