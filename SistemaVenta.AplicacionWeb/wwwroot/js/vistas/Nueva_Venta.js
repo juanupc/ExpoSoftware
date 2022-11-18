@@ -185,8 +185,6 @@ function mostrarProducto_Precios() {
         )
     })
 
-    //Revisar la formuala que esta mal
-
     subtotal = total / (1 + porcentaje);
     iva = total - subtotal;
 

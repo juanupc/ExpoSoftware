@@ -277,3 +277,8 @@ C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net6.0
 C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\Utilidades\LibreriaPDF\libwkhtmltox.dylib
 C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\Utilidades\LibreriaPDF\libwkhtmltox.so
 C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\DinkToPdf.dll
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\obj\Debug\net6.0\staticwebassets\msbuild.SistemaVenta.AplicacionWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.SistemaVenta.AplicacionWeb.props
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SistemaVenta.AplicacionWeb.props
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SistemaVenta.AplicacionWeb.props
+C:\ProyectoProg\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\obj\Debug\net6.0\staticwebassets.pack.json
