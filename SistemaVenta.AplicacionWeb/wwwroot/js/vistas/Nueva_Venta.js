@@ -1,4 +1,5 @@
-﻿let ValorImpuesto = 0;
+﻿
+let ValorImpuesto = 0;
 $(document).ready(function () {
 
 
