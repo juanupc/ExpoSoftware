@@ -1,5 +1,4 @@
-﻿
-let ValorImpuesto = 0;
+﻿let ValorImpuesto = 0;
 $(document).ready(function () {
 
 
@@ -62,7 +61,7 @@ $(document).ready(function () {
                             marca: item.marca,
                             categoria: item.nombreCategoria,
                             urlImagen: item.urlImagen,
-                            precio: item.precio
+                            precio: parseFloat(item.precio)
                         }
                     ))
                 };
@@ -79,6 +78,8 @@ $(document).ready(function () {
 })
 
 function formatoResultados(data) {
+
+    //esto es por defecto, ya que muestra el "buscando..."
     if (data.loading)
         return data.text;
 
