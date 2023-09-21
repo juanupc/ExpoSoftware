@@ -2017,11 +2017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
       "projectName": "SistemaVenta.Entity",
-      "projectPath": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+      "projectPath": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
       "packagesPath": "C:\\Users\\juana\\.nuget\\packages\\",
-      "outputPath": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.Entity\\obj\\",
+      "outputPath": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2077,7 +2077,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

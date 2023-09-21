@@ -58,7 +58,7 @@ namespace SistemaVenta.BLL.Implementacion
                     .Select(v => v.Total)
                     .Sum(v => v.Value);
 
-                return Convert.ToString(resultado,new CultureInfo("es-CO"));
+                return Convert.ToString(resultado,new CultureInfo("en-US"));
             }
             catch
             {

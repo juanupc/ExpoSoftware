@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sVE8N4WvCt0sdZ1n8uZtfV/3k4BEOYFywdxMwXCSXlhMI+X4JcBxyiRWsKPgwU8YJ/3+oj6VN0twgUeuMxhcXg==",
+  "dgSpecHash": "kCjOYElZobQwMksqfV1CqWuVi6SwlOYdtEf9QxM9AzXYwoNo+fjwq5b4ubPuLiv3nXjpltI7culEadWQBvfzNA==",
   "success": true,
-  "projectFilePath": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
+  "projectFilePath": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juana\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\juana\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

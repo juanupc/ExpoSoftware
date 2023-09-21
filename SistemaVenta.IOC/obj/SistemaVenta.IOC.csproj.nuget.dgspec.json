@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {}
+    "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {}
   },
   "projects": {
-    "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+    "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
         "projectName": "SistemaVenta.BLL",
-        "projectPath": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+        "projectPath": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
         "packagesPath": "C:\\Users\\juana\\.nuget\\packages\\",
-        "outputPath": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.BLL\\obj\\",
+        "outputPath": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
-                "projectPath": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+              "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+                "projectPath": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
               },
-              "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
-                "projectPath": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
+              "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+                "projectPath": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
               }
             }
           }
@@ -72,18 +72,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+    "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
         "projectName": "SistemaVenta.DAL",
-        "projectPath": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+        "projectPath": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
         "packagesPath": "C:\\Users\\juana\\.nuget\\packages\\",
-        "outputPath": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.DAL\\obj\\",
+        "outputPath": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,8 +100,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
-                "projectPath": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
+              "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+                "projectPath": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
               }
             }
           }
@@ -131,18 +131,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+    "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
         "projectName": "SistemaVenta.Entity",
-        "projectPath": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+        "projectPath": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
         "packagesPath": "C:\\Users\\juana\\.nuget\\packages\\",
-        "outputPath": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.Entity\\obj\\",
+        "outputPath": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -198,18 +198,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
+    "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+        "projectUniqueName": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
         "projectName": "SistemaVenta.IOC",
-        "projectPath": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+        "projectPath": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
         "packagesPath": "C:\\Users\\juana\\.nuget\\packages\\",
-        "outputPath": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.IOC\\obj\\",
+        "outputPath": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.IOC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -226,11 +226,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
-                "projectPath": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+              "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+                "projectPath": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
               },
-              "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
-                "projectPath": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+              "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+                "projectPath": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
               }
             }
           }
@@ -260,7 +260,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

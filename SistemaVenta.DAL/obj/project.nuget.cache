@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S/sCOqQzhTZ9n8Wa5MKQkgQlz939uF8aWfIF9Hk+/KML0ALXuVJ2DJvvPvK92TgFsTW2KCEY0PWCaDKHA3/rpw==",
+  "dgSpecHash": "q6SDE6E5b4oNk9Vt/ukHO6bQJGX7NQ2HG0t9urCZv+qSsSTSePqxEU+mHRRqcIBCgrm2GZpKcYUqyBz3WIutWQ==",
   "success": true,
-  "projectFilePath": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+  "projectFilePath": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juana\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\juana\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

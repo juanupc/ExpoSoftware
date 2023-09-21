@@ -190,9 +190,9 @@ function mostrarProducto_Precios() {
     subtotal = total / (1 + porcentaje);
     iva = total - subtotal;
 
-    $("#txtSubTotal").val(subtotal.toFixed(2))
-    $("#txtIVA").val(iva.toFixed(2))
-    $("#txtTotal").val(total.toFixed(2))
+    $("#txtSubTotal").val(subtotal.toFixed(1))
+    $("#txtIVA").val(iva.toFixed(1))
+    $("#txtTotal").val(total.toFixed(1))
 
 
 }
@@ -215,7 +215,6 @@ $("#btnTerminarVenta").click(function () {
     }
 
     const vmDetalleVenta = ProductosParaVenta;
-
     const venta = {
         idTipoDocumentoVenta: $("#cboTipoDocumentoVenta").val(),
         documentoCliente: $("#txtDocumentoCliente").val(),
@@ -225,6 +224,9 @@ $("#btnTerminarVenta").click(function () {
         total: $("#txtTotal").val(),
         DetalleVenta: vmDetalleVenta
     }
+
+    console.log(("#txtSubTotal").val());
+    console.log(venta);
 
     $("#btnTerminarVenta").LoadingOverlay("show");
 
@@ -247,9 +249,9 @@ $("#btnTerminarVenta").click(function () {
                 $("#txtNombreCliente").val("")
                 $("#cboTipoDocumentoVenta").val($("#cboTipoDocumentoVenta option:first").val())
 
-                swal("Registrado!", `Numero Venta : ${responseJson.objeto.numeroVenta}`, "success")
+                swal("Registrado!", `Numero de salida: ${responseJson.objeto.numeroVenta}`, "success")
             } else {
-                swal("Lo sentimos!", "No se pudo registrar la venta", "error")
+                swal("Lo sentimos!", "No se pudo registrar la salida", "error")
             }
         })
 

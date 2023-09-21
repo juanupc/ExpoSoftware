@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ur9zq3i8F+PUChXKr4MrGcGdtevMYlFU6qDuyvbZhuu9AHowuxI7XneqUjEbFSDHeW7QeC2xB9FrB8C+R7iTRw==",
+  "dgSpecHash": "18vAqaKQ++ZzvX3kyniITTJW//I2kYjiVGyohud/ZrW4VGe1CfWofaPm4RPD7QChd2/ituUFVPTi9ktotzMEDQ==",
   "success": true,
-  "projectFilePath": "C:\\ProyectoProg\\SolucionSistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+  "projectFilePath": "C:\\Users\\juana\\OneDrive\\Escritorio\\Factory\\ExpoSoftware\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juana\\.nuget\\packages\\firebaseauthentication.net\\3.7.2\\firebaseauthentication.net.3.7.2.nupkg.sha512",
     "C:\\Users\\juana\\.nuget\\packages\\firebasestorage.net\\1.0.3\\firebasestorage.net.1.0.3.nupkg.sha512",
